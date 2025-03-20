@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on E-com demo</title>
-    <link>http://localhost:1313/hargo/site/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on E-com demo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Mar 2024 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/hargo/site/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sustainable Fashion: The Impact of Organic Cotton T-shirts</title>
-      <link>http://localhost:1313/hargo/site/blog/post-1/</link>
+      <link>http://localhost:1313/blog/post-1/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/hargo/site/blog/post-1/</guid>
+      <guid>http://localhost:1313/blog/post-1/</guid>
       <description>&lt;p&gt;The fashion industry is experiencing a significant shift towards sustainability, and organic cotton t-shirts are leading this revolution. At Folk Fusion, we believe that every clothing choice makes an environmental impact, which is why we&amp;rsquo;re committed to using 100% organic cotton in our products.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Art of Screen Printing: From Design to T-shirt</title>
-      <link>http://localhost:1313/hargo/site/blog/post-2/</link>
+      <link>http://localhost:1313/blog/post-2/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/hargo/site/blog/post-2/</guid>
+      <guid>http://localhost:1313/blog/post-2/</guid>
       <description>&lt;p&gt;Screen printing is more than just a production method - it&amp;rsquo;s an art form that brings our folk-inspired designs to life. At Folk Fusion, we take pride in our traditional screen printing process that combines time-honored techniques with modern precision.&lt;/p&gt;</description>
     </item>
   </channel>
