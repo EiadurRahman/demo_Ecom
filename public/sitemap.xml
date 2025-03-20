@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/contact/</loc>
+    <loc>http://localhost:1313/hargo/site/contact/contact/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/hargo/site/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/tshirt_1/</loc>
+    <loc>http://localhost:1313/hargo/site/products/tshirt_1/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/tshirt_3/</loc>
+    <loc>http://localhost:1313/hargo/site/products/tshirt_3/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/mat_1/</loc>
+    <loc>http://localhost:1313/hargo/site/products/mat_1/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/tshirt_2/</loc>
+    <loc>http://localhost:1313/hargo/site/products/tshirt_2/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-1/</loc>
+    <loc>http://localhost:1313/hargo/site/blog/post-1/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-2/</loc>
+    <loc>http://localhost:1313/hargo/site/blog/post-2/</loc>
     <lastmod>2024-03-20T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/hargo/site/blog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/hargo/site/contact/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/faq/</loc>
+    <loc>http://localhost:1313/hargo/site/faq/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
+    <loc>http://localhost:1313/hargo/site/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terms-conditions/</loc>
+    <loc>http://localhost:1313/hargo/site/terms-conditions/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/hargo/site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hargo/site/tags/</loc>
   </url>
 </urlset>

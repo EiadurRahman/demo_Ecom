@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on E-com demo</title>
-    <link>http://localhost:1313/products/</link>
+    <link>http://localhost:1313/hargo/site/products/</link>
     <description>Recent content in Products on E-com demo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Mar 2024 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hargo/site/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Folk Art Fusion Tee</title>
-      <link>http://localhost:1313/products/tshirt_1/</link>
+      <link>http://localhost:1313/hargo/site/products/tshirt_1/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/products/tshirt_1/</guid>
+      <guid>http://localhost:1313/hargo/site/products/tshirt_1/</guid>
       <description>&lt;p&gt;Our Folk Art Fusion Tee combines traditional artistry with modern comfort. This premium t-shirt features an exclusive design inspired by classical folk art motifs, carefully screen-printed on 100% organic cotton fabric.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heritage Collection Tee</title>
-      <link>http://localhost:1313/products/tshirt_3/</link>
+      <link>http://localhost:1313/hargo/site/products/tshirt_3/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/products/tshirt_3/</guid>
+      <guid>http://localhost:1313/hargo/site/products/tshirt_3/</guid>
       <description>&lt;h2 id=&#34;a-canvas-for-culture&#34;&gt;A Canvas for Culture&lt;/h2&gt;&#xA;&lt;p&gt;Our Heritage Collection tee celebrates traditional art forms through contemporary fashion. Each design is meticulously hand-drawn by local artisans, capturing the essence of centuries-old patterns in a modern context.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mandala Meditation Mat</title>
-      <link>http://localhost:1313/products/mat_1/</link>
+      <link>http://localhost:1313/hargo/site/products/mat_1/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/products/mat_1/</guid>
+      <guid>http://localhost:1313/hargo/site/products/mat_1/</guid>
       <description>&lt;h2 id=&#34;sacred-space-for-practice&#34;&gt;Sacred Space for Practice&lt;/h2&gt;&#xA;&lt;p&gt;Our Mandala Meditation Mat transforms any space into a sacred sanctuary. Each mat features intricate mandala patterns hand-printed by skilled artisans, creating the perfect foundation for your mindfulness practice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rickshaw Art T-Shirt</title>
-      <link>http://localhost:1313/products/tshirt_2/</link>
+      <link>http://localhost:1313/hargo/site/products/tshirt_2/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/products/tshirt_2/</guid>
+      <guid>http://localhost:1313/hargo/site/products/tshirt_2/</guid>
       <description>&lt;p&gt;Step into the colorful world of South Asian street art with our Rickshaw Art T-shirt. This eye-catching design captures the vibrant spirit of traditional rickshaw art, featuring bold colors and intricate patterns that tell stories of urban culture.&lt;/p&gt;</description>
     </item>
   </channel>
