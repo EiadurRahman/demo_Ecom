@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ecomxm.netlify.app/"
+baseURL = ""
 languageCode = "en"
 title = "E-com demo"
 theme = "hargo-hugo"
