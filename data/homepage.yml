@@ -1,0 +1,126 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Your local shirt store"
+  content : "Discover our collection of high-quality, comfortable t-shirts for every style. From casual basics to unique designs, we've got you covered."
+  image : "images/banner.png"
+  # button
+  button:
+    enable : true
+    label : "All Products"
+    link : "products/"
+  # demo video
+  video:
+    enable : true
+    videoURL : "https://www.youtube.com/embed/D-_ydzjUkHU"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "About Our clothing brand"
+  content : "Folk Fusion brings together traditional artisanal craftsmanship with modern comfort. Our t-shirts feature unique designs inspired by diverse folk art traditions, carefully screen-printed on premium cotton fabric. Each piece tells a story while providing the perfect blend of style and comfort for everyday wear. We work directly with local artists to create authentic designs that celebrate cultural heritage in contemporary fashion."
+  image : "images/products/about.jpeg"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Our RickshART lineup is here!"
+  content : "Available for limited time only. Grab one while you still can!"
+  image : "images/products/tshirt-wbg.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "All Products"
+    link : "products/"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "What Makes Our T-shirts Special"
+  subtitle : "We carefully select premium materials to create t-shirts that look great and feel even better."
+  materialItem:
+    # material item loop
+    - title : "Premium Cotton"
+      image : "images/material/cotton.jpg"
+      content : "100% organic cotton sourced from sustainable farms, providing ultimate comfort and breathability"
+      
+    # material item loop
+    - title : "Screen Printing"
+      image : "images/material/screen_printing.webp"
+      content : "High-quality screen printing techniques ensure vibrant, long-lasting designs that won't fade"
+      
+    # material item loop
+    - title : "Ribbed Collar"
+      image : "images/material/coller.webp"
+      content : "Double-stitched ribbed collar maintains its shape wash after wash for lasting quality"
+      
+    # material item loop
+    - title : "Ethical Production"
+      image : "images/material/ethical.jpeg"
+      content : "Manufactured in certified facilities that ensure fair labor practices and quality standards"
+
+# ########################### Advantage #########################
+# advantage:
+#   enable : true
+#   title : "Advantages Of Using <br> Our Product"
+#   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+#   image : "images/advantage.png"
+#   advantageList:
+#     # advantage list loop
+#     - listItem : "Extremely lightweight"
+#     - listItem : "Excellent breathability"
+#     - listItem : "Can increase Cell activation"
+#     - listItem : "Glowing Skin In 7 Days"
+#     - listItem : "Increasing Glow Of Face"
+#     - listItem : "More Beautiful Face Skin"
+
+
+# ######################## Promo Video ##########################
+# video:
+#   enable : true
+#   title : "How To Use This Product?"
+#   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+#           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+#   videoThumb : "images/video-thumb.jpg"
+#   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Products List"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "What People Are Saying <br> About Our Product"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Angelo Perara"
+      image : "images/clients/client-1.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "These t-shirts are incredibly comfortable! <br> The folk art designs are unique and <br> the quality is outstanding."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Riya Ventila"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "I love how each design tells a story. <br> The organic cotton feels amazing and <br> the prints stay vibrant after washing."
+      rating : "three" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "john Doe"
+      image : "images/clients/client-3.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "The attention to detail is impressive. <br> From the stitching to the collar, <br> everything speaks quality craftsmanship."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Riya Ventila"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "Perfect fit and great designs! <br> These shirts have become my favorite <br> for both casual and semi-formal wear."
+      rating : "four" # rating star, one to five
