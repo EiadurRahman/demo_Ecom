@@ -1,5 +1,5 @@
 [build]
-  command = "hugo"
+  command = "npm install && npm run build && npm install -g hugo && hugo"
   publish = "public"
 
 [context.production.environment]
