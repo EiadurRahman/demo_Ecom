@@ -14,7 +14,7 @@ priceBefore: "34.99"
 shortDescription: "Handcrafted folk art design on 100% organic cotton. Each piece tells a unique story while providing ultimate comfort."
 
 #product ID
-productID: "1"
+productID: "2"
 
 # type must be "products"
 type: "products"

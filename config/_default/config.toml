@@ -87,7 +87,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo/logo-min.jpg"
+logo = "images/logo/logo_bg.png"
 home = "Home"
 # Meta data
 description = "demo ecommerce site"

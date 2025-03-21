@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 20 Mar 2024 11:22:16 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Black tshirt</title>
+      <link>//localhost:1313/products/tshirt_4/</link>
+      <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>
+      <guid>//localhost:1313/products/tshirt_4/</guid>
+      <description>&lt;h2 id=&#34;a-canvas-for-culture&#34;&gt;A Canvas for Culture&lt;/h2&gt;&#xA;&lt;p&gt;Our Heritage Collection tee celebrates traditional art forms through contemporary fashion. Each design is meticulously hand-drawn by local artisans, capturing the essence of centuries-old patterns in a modern context.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Contact Us</title>
       <link>//localhost:1313/contact/contact/</link>
       <pubDate>Wed, 20 Mar 2024 11:22:16 +0600</pubDate>

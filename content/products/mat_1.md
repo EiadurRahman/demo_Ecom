@@ -14,7 +14,7 @@ priceBefore: "54.99"
 shortDescription: "Experience tranquility with our hand-printed meditation mat featuring intricate mandala patterns, crafted from sustainable materials for mindful practice"
 
 #product ID
-productID: "4"
+productID: "1"
 
 # type must be "products"
 type: "products"

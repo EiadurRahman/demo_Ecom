@@ -14,7 +14,7 @@ priceBefore: "39.99"
 shortDescription: "Experience the vibrant culture of South Asian street art with our Rickshaw-inspired design printed on premium organic cotton"
 
 #product ID
-productID: "2"
+productID: "3"
 
 # type must be "products"
 type: "products"

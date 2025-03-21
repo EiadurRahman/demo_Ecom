@@ -14,7 +14,7 @@ priceBefore: "39.99"
 shortDescription: "Each Heritage Collection tee features hand-drawn patterns inspired by traditional artisans, printed on buttery-soft organic cotton"
 
 #product ID
-productID: "3"
+productID: "4"
 
 # type must be "products"
 type: "products"
