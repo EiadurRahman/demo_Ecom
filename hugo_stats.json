@@ -38,6 +38,7 @@
       "source",
       "span",
       "strong",
+      "style",
       "textarea",
       "title",
       "ul"
@@ -89,6 +90,7 @@
       "container",
       "content",
       "cta-image",
+      "custom-logo",
       "d-block",
       "d-flex",
       "d-inline-block",
