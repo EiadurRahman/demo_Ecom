@@ -1,10 +1,10 @@
 ######################## default configuration ####################
 baseURL = ""
 languageCode = "en"
-title = "E-com demo"
+title = "Folk Fusion"
 theme = "hargo-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Asia/Dhaka"
 # post pagination
 pagination.pagerSize = 10 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -90,7 +90,7 @@ link = "plugins/google-map/gmap.js"
 logo = "images/logo/logo_bg.png"
 home = "Home"
 # Meta data
-description = "demo ecommerce site"
+description = "Folk Fusion is a modern and creative portfolio template designed for artists, designers, and creative professionals. It features a clean and elegant design with a focus on showcasing your work in a visually appealing way. The template includes multiple sections for displaying your portfolio, about information, services, testimonials, and a contact form. It is fully responsive and optimized for all devices, ensuring that your portfolio looks great on desktops, tablets, and smartphones."
 author = "eiadur rahman"
 # # google map
 # gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
